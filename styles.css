@@ -1,0 +1,19 @@
+body {
+	background-color: #f5deb3;
+}
+
+h3 {
+	font-family: 'Barlow', sans-serif;
+}
+
+p {
+	font-family: 'Barlow', sans-serif;
+}
+
+.counter-display1 {
+	color: green;
+}
+
+.counter-plus {
+	background-color: blue;
+}
